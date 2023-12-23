@@ -9,10 +9,15 @@ symbols:
       - name: NZDUSD
       - name: USDCAD
       - name: USDCHF
+      - name: USDHKD
       - name: USDJPY
       - name: USDNOK
+      - name: USDSEK
+      - name: USDSGD
       - name: XAGUSD
       - name: XAUUSD
+      - name: XPDUSD
+      - name: XPTUSD
   - market: SQ
     time: Europe/Luxembourg
     start: 2018

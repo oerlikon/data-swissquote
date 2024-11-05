@@ -1,0 +1,31 @@
+symbols:
+  - market: SQ
+    time: Europe/Luxembourg
+    start: 2018
+    symbols:
+      - name: AUDUSD
+      - name: EURUSD
+      - name: GBPUSD
+      - name: NZDUSD
+      - name: USDCAD
+      - name: USDCHF
+      - name: USDHKD
+      - name: USDJPY
+      - name: USDNOK
+      - name: USDSEK
+      - name: USDSGD
+      - name: XAGUSD
+      - name: XAUUSD
+      - name: XPDUSD
+      - name: XPTUSD
+  - market: SQ
+    time: Europe/Luxembourg
+    start: 2018
+    symbols:
+      - name: NAS100
+      - name: US30
+      - name: US500
+actions:
+  - using: finam
+    actions:
+      - name: import

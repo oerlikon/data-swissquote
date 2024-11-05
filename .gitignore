@@ -1,0 +1,7 @@
+_*
+/prep
+.sync
+
+# macOS
+.DS_Store
+Icon[]
